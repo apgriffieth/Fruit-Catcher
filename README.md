@@ -1,2 +1,2 @@
 # Fruit-Catcher
-1st Assignment done in GameMaker
+1st game completed in GameMaker, a simple time-based fruit clicking game
